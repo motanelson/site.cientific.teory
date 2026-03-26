@@ -17,3 +17,4 @@ mini.scientific.project projects, and it will allow users to display their scien
 their scientific experience, their scientific thesis, or their scientific theory, or simply their 
 
 group work or homework in .pdf
+
